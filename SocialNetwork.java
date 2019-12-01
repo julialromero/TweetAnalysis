@@ -11,10 +11,6 @@ import java.util.Set;
 /**
  * Social Network consists of methods that filter users matching a
  * condition.
- * <p>
- * DO NOT change the method signatures and specifications of these methods, but
- * you should implement their method bodies, and you may add new public or
- * private methods or classes if you like.
  */
 public class SocialNetwork {
     private static Set<Integer> tweetIds = new HashSet<>();
@@ -32,7 +28,7 @@ public class SocialNetwork {
      * defined by Tweet.getName()'s spec).
      * The username-mention cannot be immediately preceded or followed by any
      * character valid in a Twitter username.
-     * For this reason, an email address like ethomaz@utexas.edu does NOT
+     * For this reason, an email address does NOT
      * contain a mention of the username.
      * Twitter usernames are case-insensitive, and the returned set may
      * include a username at most once.
