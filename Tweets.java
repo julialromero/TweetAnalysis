@@ -7,8 +7,6 @@ Project4
 
 /**
  * Object representation of Tweets
- * You should not need to modify this class
- * If you feel like you do so, ask on piazza before proceeding
  */
 
 public class Tweets
