@@ -13,10 +13,6 @@ import java.time.Instant;
 /**
  * Filter consists of methods that filter a list of tweets for those matching a
  * condition.
- *
- * DO NOT change the method signatures and specifications of these methods, but
- * you should implement their method bodies, and you may add new public or
- * private methods or classes if you like.
  */
 public class Filter {
 
