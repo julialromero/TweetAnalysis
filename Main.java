@@ -1,7 +1,6 @@
 package assignment4;
 /*
 Julia Romero
-JLR5576
 Project4
  */
 import java.time.Instant;
