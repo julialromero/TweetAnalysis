@@ -17,7 +17,6 @@ import java.util.*;
 
 /**
  * TweetReader contains method used to return tweets from method
- * Do not change the method header
  */
 public class TweetReader {
 
