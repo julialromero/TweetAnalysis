@@ -9,8 +9,6 @@ import java.time.Instant;
 /**
  * Immutable datatype representing an interval starting from one date/time and
  * ending at a no earlier date/time. The interval includes its endpoints.
- *
- * DO NOT CHANGE THIS CLASS.
  */
 public class Timespan {
 
