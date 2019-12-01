@@ -1,6 +1,6 @@
 # Tweet Analysis
 Welcome to my 4th class project for UT-Austin's EE422C Software/Data Structures II course.
-
+This program uses Java 8.
 
 ### Extracting Tweets from a Server
 The program extracts tweets from this URl endpoint: http://kevinstwitterclient2.azurewebsites.net/api/products
